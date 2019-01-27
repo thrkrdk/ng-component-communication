@@ -1,3 +1,7 @@
+# Angular: Bak Şu Konuşana! makalesinin kaynak kodudur
+
+https://medium.com/@thrkardak/angular-bak-%C5%9Fu-konu%C5%9Fana-abc1a085eb00
+
 # NgComponentCommunication
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
